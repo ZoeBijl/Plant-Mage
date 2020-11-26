@@ -9,7 +9,7 @@ Plant Mage is released with the same license.
 
 A plant mage emoji in the six standardized skin tones. These are available in PNG (64x64 pixels and 128x128 pixels) and SVG.
 
-![](https://zoebijl.github.io/Plant-Mage/PNG/64w/plantmage.png)![](https://zoebijl.github.io/Plant-Mage/PNG/64w/plantmage-1.png)![](https://zoebijl.github.io/Plant-Mage/PNG/64w/plantmage-2.png)![](https://zoebijl.github.io/Plant-Mage/PNG/64w/plantmage-3.png)![](https://zoebijl.github.io/Plant-Mage/PNG/64w/plantmage-4.png)![](https://zoebijl.github.io/Plant-Mage/PNG/64w/plantmage-5.png)
+![](https://zoebijl.github.io/Plant-Mage/PNG/128w/plantmage.png) ![](https://zoebijl.github.io/Plant-Mage/PNG/128w/plantmage-1.png) ![](https://zoebijl.github.io/Plant-Mage/PNG/128w/plantmage-2.png) ![](https://zoebijl.github.io/Plant-Mage/PNG/128w/plantmage-3.png) ![](https://zoebijl.github.io/Plant-Mage/PNG/128w/plantmage-4.png) ![](https://zoebijl.github.io/Plant-Mage/PNG/128w/plantmage-5.png)
 
 ## Download
 
