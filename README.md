@@ -3,7 +3,7 @@ A plant mage emoji based on the [Twemoji](https://github.com/twitter/twemoji) em
 
 Plant Mage is released with the same license.
 
-![A banner that showcases the six variants](Banner.png)
+![A banner that showcases the six variants](https://zoebijl.github.io/Plant-Mage/meta/Banner.png)
 
 ## What’s included?
 
